@@ -8,5 +8,5 @@
 
 import Foundation
 
-let solver: Solver = CamelCase()
+let solver: Solver = StarPattern()
 solver.solve()

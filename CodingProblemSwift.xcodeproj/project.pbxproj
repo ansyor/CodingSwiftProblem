@@ -17,7 +17,7 @@
 		F45E9520204FA2A90083EF38 /* StrongPassword.swift in Sources */ = {isa = PBXBuildFile; fileRef = F45E9514204FA2A90083EF38 /* StrongPassword.swift */; };
 		F45E9521204FA2A90083EF38 /* Factorial.swift in Sources */ = {isa = PBXBuildFile; fileRef = F45E9515204FA2A90083EF38 /* Factorial.swift */; };
 		F45E9522204FA2A90083EF38 /* FizzBuzz.swift in Sources */ = {isa = PBXBuildFile; fileRef = F45E9516204FA2A90083EF38 /* FizzBuzz.swift */; };
-		F45E9523204FA2A90083EF38 /* EasyPattern.swift in Sources */ = {isa = PBXBuildFile; fileRef = F45E9517204FA2A90083EF38 /* EasyPattern.swift */; };
+		F45E9523204FA2A90083EF38 /* StarPattern.swift in Sources */ = {isa = PBXBuildFile; fileRef = F45E9517204FA2A90083EF38 /* StarPattern.swift */; };
 		F45E9524204FA2A90083EF38 /* BalanceDelimiter.swift in Sources */ = {isa = PBXBuildFile; fileRef = F45E9518204FA2A90083EF38 /* BalanceDelimiter.swift */; };
 		F45E9525204FA2A90083EF38 /* FibonacciLite.swift in Sources */ = {isa = PBXBuildFile; fileRef = F45E9519204FA2A90083EF38 /* FibonacciLite.swift */; };
 		F45E9526204FA2A90083EF38 /* ReverseInteger.swift in Sources */ = {isa = PBXBuildFile; fileRef = F45E951A204FA2A90083EF38 /* ReverseInteger.swift */; };
@@ -46,7 +46,7 @@
 		F45E9514204FA2A90083EF38 /* StrongPassword.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StrongPassword.swift; sourceTree = "<group>"; };
 		F45E9515204FA2A90083EF38 /* Factorial.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Factorial.swift; sourceTree = "<group>"; };
 		F45E9516204FA2A90083EF38 /* FizzBuzz.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FizzBuzz.swift; sourceTree = "<group>"; };
-		F45E9517204FA2A90083EF38 /* EasyPattern.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EasyPattern.swift; sourceTree = "<group>"; };
+		F45E9517204FA2A90083EF38 /* StarPattern.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StarPattern.swift; sourceTree = "<group>"; };
 		F45E9518204FA2A90083EF38 /* BalanceDelimiter.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BalanceDelimiter.swift; sourceTree = "<group>"; };
 		F45E9519204FA2A90083EF38 /* FibonacciLite.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FibonacciLite.swift; sourceTree = "<group>"; };
 		F45E951A204FA2A90083EF38 /* ReverseInteger.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ReverseInteger.swift; sourceTree = "<group>"; };
@@ -77,7 +77,7 @@
 			children = (
 				F45E9518204FA2A90083EF38 /* BalanceDelimiter.swift */,
 				F45E9512204FA2A90083EF38 /* CamelCase.swift */,
-				F45E9517204FA2A90083EF38 /* EasyPattern.swift */,
+				F45E9517204FA2A90083EF38 /* StarPattern.swift */,
 				F45E9511204FA2A80083EF38 /* Exponent.swift */,
 				F45E9515204FA2A90083EF38 /* Factorial.swift */,
 				F45E9519204FA2A90083EF38 /* FibonacciLite.swift */,
@@ -183,7 +183,7 @@
 				F45E9522204FA2A90083EF38 /* FizzBuzz.swift in Sources */,
 				F45E951C204FA2A90083EF38 /* MthLastElement.swift in Sources */,
 				F45E9526204FA2A90083EF38 /* ReverseInteger.swift in Sources */,
-				F45E9523204FA2A90083EF38 /* EasyPattern.swift in Sources */,
+				F45E9523204FA2A90083EF38 /* StarPattern.swift in Sources */,
 				F45E951E204FA2A90083EF38 /* CamelCase.swift in Sources */,
 				F45E950E204FA2070083EF38 /* main.swift in Sources */,
 				F45E9524204FA2A90083EF38 /* BalanceDelimiter.swift in Sources */,
