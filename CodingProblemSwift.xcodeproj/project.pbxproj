@@ -7,7 +7,18 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		F4CE5AE9202865000094A611 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4CE5AE8202865000094A611 /* main.swift */; };
+		F419035F202EEB9F001BC806 /* Factorial.swift in Sources */ = {isa = PBXBuildFile; fileRef = F419035E202EEB9F001BC806 /* Factorial.swift */; };
+		F4190361202FF04F001BC806 /* EasyPattern.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4190360202FF04F001BC806 /* EasyPattern.swift */; };
+		F4862108204529E7007EB59D /* ReverseEveryWord.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4862107204529E7007EB59D /* ReverseEveryWord.swift */; };
+		F49648EE204A9668003F35A7 /* CamelCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = F49648ED204A9668003F35A7 /* CamelCase.swift */; };
+		F49648F0204A9DC1003F35A7 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = F49648EF204A9DC1003F35A7 /* main.swift */; };
+		F49648F2204AA267003F35A7 /* StrongPassword.swift in Sources */ = {isa = PBXBuildFile; fileRef = F49648F1204AA267003F35A7 /* StrongPassword.swift */; };
+		F498F295202D48010007E50A /* BalanceDelimiter.swift in Sources */ = {isa = PBXBuildFile; fileRef = F498F294202D48010007E50A /* BalanceDelimiter.swift */; };
+		F498F297202D58990007E50A /* FizzBuzz.swift in Sources */ = {isa = PBXBuildFile; fileRef = F498F296202D58990007E50A /* FizzBuzz.swift */; };
+		F4CE5AE9202865000094A611 /* MthLastElement.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4CE5AE8202865000094A611 /* MthLastElement.swift */; };
+		F4CE5AF02028A00F0094A611 /* FibonacciLite.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4CE5AEF2028A00F0094A611 /* FibonacciLite.swift */; };
+		F4CE5AF8202953120094A611 /* UncoupledInteger.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4CE5AF7202953120094A611 /* UncoupledInteger.swift */; };
+		F4D5AB3C203FC25C00F0DD0B /* ReverseInteger.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4D5AB3B203FC25C00F0DD0B /* ReverseInteger.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -23,8 +34,19 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		F419035E202EEB9F001BC806 /* Factorial.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Factorial.swift; sourceTree = "<group>"; };
+		F4190360202FF04F001BC806 /* EasyPattern.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EasyPattern.swift; sourceTree = "<group>"; };
+		F4862107204529E7007EB59D /* ReverseEveryWord.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReverseEveryWord.swift; sourceTree = "<group>"; };
+		F49648ED204A9668003F35A7 /* CamelCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CamelCase.swift; sourceTree = "<group>"; };
+		F49648EF204A9DC1003F35A7 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		F49648F1204AA267003F35A7 /* StrongPassword.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StrongPassword.swift; sourceTree = "<group>"; };
+		F498F294202D48010007E50A /* BalanceDelimiter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BalanceDelimiter.swift; sourceTree = "<group>"; };
+		F498F296202D58990007E50A /* FizzBuzz.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FizzBuzz.swift; sourceTree = "<group>"; };
 		F4CE5AE5202865000094A611 /* CodingProblemSwift */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = CodingProblemSwift; sourceTree = BUILT_PRODUCTS_DIR; };
-		F4CE5AE8202865000094A611 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		F4CE5AE8202865000094A611 /* MthLastElement.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MthLastElement.swift; sourceTree = "<group>"; };
+		F4CE5AEF2028A00F0094A611 /* FibonacciLite.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FibonacciLite.swift; sourceTree = "<group>"; };
+		F4CE5AF7202953120094A611 /* UncoupledInteger.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UncoupledInteger.swift; sourceTree = "<group>"; };
+		F4D5AB3B203FC25C00F0DD0B /* ReverseInteger.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReverseInteger.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,7 +79,18 @@
 		F4CE5AE7202865000094A611 /* CodingProblemSwift */ = {
 			isa = PBXGroup;
 			children = (
-				F4CE5AE8202865000094A611 /* main.swift */,
+				F4CE5AE8202865000094A611 /* MthLastElement.swift */,
+				F4CE5AEF2028A00F0094A611 /* FibonacciLite.swift */,
+				F4CE5AF7202953120094A611 /* UncoupledInteger.swift */,
+				F498F294202D48010007E50A /* BalanceDelimiter.swift */,
+				F498F296202D58990007E50A /* FizzBuzz.swift */,
+				F419035E202EEB9F001BC806 /* Factorial.swift */,
+				F4190360202FF04F001BC806 /* EasyPattern.swift */,
+				F4D5AB3B203FC25C00F0DD0B /* ReverseInteger.swift */,
+				F4862107204529E7007EB59D /* ReverseEveryWord.swift */,
+				F49648ED204A9668003F35A7 /* CamelCase.swift */,
+				F49648EF204A9DC1003F35A7 /* main.swift */,
+				F49648F1204AA267003F35A7 /* StrongPassword.swift */,
 			);
 			path = CodingProblemSwift;
 			sourceTree = "<group>";
@@ -120,7 +153,18 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F4CE5AE9202865000094A611 /* main.swift in Sources */,
+				F49648EE204A9668003F35A7 /* CamelCase.swift in Sources */,
+				F498F297202D58990007E50A /* FizzBuzz.swift in Sources */,
+				F4862108204529E7007EB59D /* ReverseEveryWord.swift in Sources */,
+				F49648F2204AA267003F35A7 /* StrongPassword.swift in Sources */,
+				F4D5AB3C203FC25C00F0DD0B /* ReverseInteger.swift in Sources */,
+				F49648F0204A9DC1003F35A7 /* main.swift in Sources */,
+				F4CE5AF02028A00F0094A611 /* FibonacciLite.swift in Sources */,
+				F4CE5AF8202953120094A611 /* UncoupledInteger.swift in Sources */,
+				F4190361202FF04F001BC806 /* EasyPattern.swift in Sources */,
+				F419035F202EEB9F001BC806 /* Factorial.swift in Sources */,
+				F498F295202D48010007E50A /* BalanceDelimiter.swift in Sources */,
+				F4CE5AE9202865000094A611 /* MthLastElement.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -252,6 +296,7 @@
 				F4CE5AEE202865000094A611 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
