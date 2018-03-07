@@ -1,5 +1,5 @@
 //
-//  main.swift
+//  File.swift
 //  CodingProblemSwift
 //
 //  Created by Iqbal Ansyori on 3/7/18.
@@ -8,5 +8,7 @@
 
 import Foundation
 
-let balanceDelimiter: Solver = BalanceDelimiter()
-balanceDelimiter.solve()
+protocol Solver {
+	
+	func solve()
+}
