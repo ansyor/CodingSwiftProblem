@@ -8,5 +8,5 @@
 
 import Foundation
 
-let balanceDelimiter: Solver = BalanceDelimiter()
-balanceDelimiter.solve()
+let solver: Solver = CamelCase()
+solver.solve()
