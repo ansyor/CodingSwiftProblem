@@ -8,5 +8,5 @@
 
 import Foundation
 
-let solver: Solver = Exponentiation()
+let solver: Solver = Factorial()
 solver.solve()
