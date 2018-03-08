@@ -11,7 +11,7 @@
 		F45E950E204FA2070083EF38 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = F45E950D204FA2070083EF38 /* main.swift */; };
 		F45E951B204FA2A90083EF38 /* UncoupledInteger.swift in Sources */ = {isa = PBXBuildFile; fileRef = F45E950F204FA2A80083EF38 /* UncoupledInteger.swift */; };
 		F45E951C204FA2A90083EF38 /* MthLastElement.swift in Sources */ = {isa = PBXBuildFile; fileRef = F45E9510204FA2A80083EF38 /* MthLastElement.swift */; };
-		F45E951D204FA2A90083EF38 /* Exponent.swift in Sources */ = {isa = PBXBuildFile; fileRef = F45E9511204FA2A80083EF38 /* Exponent.swift */; };
+		F45E951D204FA2A90083EF38 /* Exponentiation.swift in Sources */ = {isa = PBXBuildFile; fileRef = F45E9511204FA2A80083EF38 /* Exponentiation.swift */; };
 		F45E951E204FA2A90083EF38 /* CamelCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = F45E9512204FA2A90083EF38 /* CamelCase.swift */; };
 		F45E951F204FA2A90083EF38 /* ReverseEveryWord.swift in Sources */ = {isa = PBXBuildFile; fileRef = F45E9513204FA2A90083EF38 /* ReverseEveryWord.swift */; };
 		F45E9520204FA2A90083EF38 /* StrongPassword.swift in Sources */ = {isa = PBXBuildFile; fileRef = F45E9514204FA2A90083EF38 /* StrongPassword.swift */; };
@@ -40,7 +40,7 @@
 		F45E950D204FA2070083EF38 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		F45E950F204FA2A80083EF38 /* UncoupledInteger.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UncoupledInteger.swift; sourceTree = "<group>"; };
 		F45E9510204FA2A80083EF38 /* MthLastElement.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MthLastElement.swift; sourceTree = "<group>"; };
-		F45E9511204FA2A80083EF38 /* Exponent.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Exponent.swift; sourceTree = "<group>"; };
+		F45E9511204FA2A80083EF38 /* Exponentiation.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Exponentiation.swift; sourceTree = "<group>"; };
 		F45E9512204FA2A90083EF38 /* CamelCase.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CamelCase.swift; sourceTree = "<group>"; };
 		F45E9513204FA2A90083EF38 /* ReverseEveryWord.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ReverseEveryWord.swift; sourceTree = "<group>"; };
 		F45E9514204FA2A90083EF38 /* StrongPassword.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StrongPassword.swift; sourceTree = "<group>"; };
@@ -78,7 +78,7 @@
 				F45E9518204FA2A90083EF38 /* BalanceDelimiter.swift */,
 				F45E9512204FA2A90083EF38 /* CamelCase.swift */,
 				F45E9517204FA2A90083EF38 /* StarPattern.swift */,
-				F45E9511204FA2A80083EF38 /* Exponent.swift */,
+				F45E9511204FA2A80083EF38 /* Exponentiation.swift */,
 				F45E9515204FA2A90083EF38 /* Factorial.swift */,
 				F45E9519204FA2A90083EF38 /* FibonacciLite.swift */,
 				F45E9516204FA2A90083EF38 /* FizzBuzz.swift */,
@@ -177,7 +177,7 @@
 			files = (
 				F45E950B204FA1960083EF38 /* Solver.swift in Sources */,
 				F45E951B204FA2A90083EF38 /* UncoupledInteger.swift in Sources */,
-				F45E951D204FA2A90083EF38 /* Exponent.swift in Sources */,
+				F45E951D204FA2A90083EF38 /* Exponentiation.swift in Sources */,
 				F45E9521204FA2A90083EF38 /* Factorial.swift in Sources */,
 				F45E951F204FA2A90083EF38 /* ReverseEveryWord.swift in Sources */,
 				F45E9522204FA2A90083EF38 /* FizzBuzz.swift in Sources */,

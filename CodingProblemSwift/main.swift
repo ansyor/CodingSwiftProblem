@@ -8,5 +8,5 @@
 
 import Foundation
 
-let solver: Solver = StarPattern()
+let solver: Solver = Exponentiation()
 solver.solve()
