@@ -21,6 +21,7 @@
 		F45E9524204FA2A90083EF38 /* BalanceDelimiter.swift in Sources */ = {isa = PBXBuildFile; fileRef = F45E9518204FA2A90083EF38 /* BalanceDelimiter.swift */; };
 		F45E9525204FA2A90083EF38 /* FibonacciLite.swift in Sources */ = {isa = PBXBuildFile; fileRef = F45E9519204FA2A90083EF38 /* FibonacciLite.swift */; };
 		F45E9526204FA2A90083EF38 /* ReverseInteger.swift in Sources */ = {isa = PBXBuildFile; fileRef = F45E951A204FA2A90083EF38 /* ReverseInteger.swift */; };
+		F46EFC432051112400F5F62F /* KDifference.swift in Sources */ = {isa = PBXBuildFile; fileRef = F46EFC422051112400F5F62F /* KDifference.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -50,6 +51,7 @@
 		F45E9518204FA2A90083EF38 /* BalanceDelimiter.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BalanceDelimiter.swift; sourceTree = "<group>"; };
 		F45E9519204FA2A90083EF38 /* FibonacciLite.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FibonacciLite.swift; sourceTree = "<group>"; };
 		F45E951A204FA2A90083EF38 /* ReverseInteger.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ReverseInteger.swift; sourceTree = "<group>"; };
+		F46EFC422051112400F5F62F /* KDifference.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KDifference.swift; sourceTree = "<group>"; };
 		F4CE5AE5202865000094A611 /* CodingProblemSwift */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = CodingProblemSwift; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -87,6 +89,7 @@
 				F45E951A204FA2A90083EF38 /* ReverseInteger.swift */,
 				F45E9514204FA2A90083EF38 /* StrongPassword.swift */,
 				F45E950F204FA2A80083EF38 /* UncoupledInteger.swift */,
+				F46EFC422051112400F5F62F /* KDifference.swift */,
 			);
 			path = ProblemSolver;
 			sourceTree = "<group>";
@@ -175,6 +178,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F46EFC432051112400F5F62F /* KDifference.swift in Sources */,
 				F45E950B204FA1960083EF38 /* Solver.swift in Sources */,
 				F45E951B204FA2A90083EF38 /* UncoupledInteger.swift in Sources */,
 				F45E951D204FA2A90083EF38 /* Exponentiation.swift in Sources */,

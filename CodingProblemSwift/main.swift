@@ -8,5 +8,5 @@
 
 import Foundation
 
-let solver: Solver = Factorial()
+let solver: Solver = KDifference()
 solver.solve()
